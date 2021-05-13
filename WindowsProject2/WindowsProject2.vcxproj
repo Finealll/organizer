@@ -162,8 +162,8 @@
     <Image Include="WindowsProject2.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Media Include="..\..\..\..\Downloads\alarm0.wav" />
-    <Media Include="..\..\..\..\Downloads\alarm1.wav" />
+    <Media Include="Resources\alarm0.wav" />
+    <Media Include="Resources\alarm1.wav" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

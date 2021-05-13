@@ -68,10 +68,10 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="..\..\..\..\Downloads\alarm0.wav">
+    <Media Include="Resources\alarm1.wav">
       <Filter>Файлы ресурсов</Filter>
     </Media>
-    <Media Include="..\..\..\..\Downloads\alarm1.wav">
+    <Media Include="Resources\alarm0.wav">
       <Filter>Файлы ресурсов</Filter>
     </Media>
   </ItemGroup>
